@@ -1,0 +1,19 @@
+{
+  "name": "redux-error-boundary",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goudla/redux-error-boundary.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goudla/redux-error-boundary/issues"
+  },
+  "homepage": "https://github.com/Goudla/redux-error-boundary#readme"
+}
